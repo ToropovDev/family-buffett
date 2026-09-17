@@ -1,0 +1,6 @@
+.python-version
+.env
+pgdata
+.venv
+venv
+.idea
